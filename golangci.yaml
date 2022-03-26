@@ -1,0 +1,10 @@
+linters:
+  enable:
+    - lll
+    - revive
+    - gofmt
+
+linters-settings:
+  lll:
+    line-length: 100
+    tab-width: 8
